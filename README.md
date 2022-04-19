@@ -4,6 +4,7 @@ Un anti spam simple pour discord.js
 
 💼 • Prérequis :
 - Node v16 ou plus
+- Discord.js V13.6.0 ou plus
 - module [discord-chat-filter](https://www.npmjs.com/package/discord-chat-filter?msclkid=51e106d6bfe911eca75e168c7eecb235)
 
 💼 • Setup :
